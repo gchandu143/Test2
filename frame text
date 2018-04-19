@@ -3,9 +3,9 @@
 <head>
 <style>
 .city {
-    background-color: tomato;
-    color: white;
-    padding: 10px;
+    background-color: blue;
+    color: pink;
+    padding: 100px;
 }
 </style>
 </head>
